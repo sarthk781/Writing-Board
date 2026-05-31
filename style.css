@@ -385,3 +385,26 @@ footer a:hover{
         padding:20px;
     }
 }
+.content{
+    max-width:1000px;
+    margin:40px auto;
+    padding:40px;
+    background:white;
+    border-radius:24px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+    line-height:1.8;
+}
+
+.content h2{
+    color:#6366f1;
+    margin-top:25px;
+    margin-bottom:10px;
+}
+
+.content h3{
+    margin-top:15px;
+}
+
+.content ul{
+    padding-left:25px;
+}
